@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:yulongcs/endy-upload-client.git
+[submodule "serve"]
+	path = serve
+	url = git@github.com:yulongcs/endy-upload-serve.git
+[submodule "server"]
+	path = server
+	url = git@github.com:yulongcs/endy-upload-server.git
